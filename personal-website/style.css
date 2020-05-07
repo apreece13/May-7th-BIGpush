@@ -1,0 +1,21 @@
+.card {
+    display:flex;
+    justify-content: space-evenly;
+    padding: 1em 1em 1em 1em;
+}
+
+.orange-card {
+    background-color: #c26819;
+}
+
+.fifth-card {
+    background-color: #199ce3;
+}
+
+.sixth-card {
+    background-color: #0825c9;
+}
+
+.seventh-card {
+    background-color: orchid;
+}

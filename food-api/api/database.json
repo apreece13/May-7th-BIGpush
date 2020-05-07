@@ -1,0 +1,60 @@
+{
+  "food": [
+    {
+      "name": "Linguine",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "barcode": "8076809523509",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Massaman curry",
+      "category": "curry",
+      "ethnicity": "thai",
+      "barcode": "3560070976416"
+    },
+    {
+      "id": 3,
+      "name": "Green curry",
+      "category": "curry",
+      "ethnicity": "thai",
+      "barcode": "5021047104419"
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Funghi",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "barcode": "8001665127585"
+    },
+    {
+      "name": "Eel Rolls",
+      "category": "Sushi",
+      "ethnicity": "Japanese",
+      "id": 9,
+      "barcode": "0639192737076"
+    },
+    {
+      "name": "Potatoe Salad",
+      "category": "side dish",
+      "ethnicity": "Merican",
+      "id": 10,
+      "barcode": "0070670001324"
+    },
+    {
+      "name": "BuffMac",
+      "category": "pasta",
+      "ethnicity": "West Virginian",
+      "id": 11,
+      "barcode": "0018894360155"
+    },
+    {
+      "name": "Pep Roll",
+      "category": "speciality",
+      "ethnicity": "W. Virginian",
+      "id": 12,
+      "barcode": "0717854016872"
+    }
+  ]
+}

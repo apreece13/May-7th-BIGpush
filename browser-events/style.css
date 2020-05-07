@@ -1,0 +1,16 @@
+#firstArticleID{
+    width: 50%;
+    border: 1px solid teal;
+}
+
+#secondArticleID{
+    width: 50%;
+    border: 1px solid tomato;
+
+}
+
+#articleDiv{
+    display: flex;
+    
+}
+

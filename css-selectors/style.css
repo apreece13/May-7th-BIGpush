@@ -1,0 +1,36 @@
+header{
+    display: flex;
+}
+
+header img{
+    width: 4em;
+    margin-left: 3em;
+}
+
+section > div {
+    border: 1px solid grey;
+    width: 15vw;
+    margin: 1em;
+    padding: 1em;
+}
+
+div img {
+    width: 10vw;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div:first-child {
+    background-color: cornflowerblue;
+}
+
+h3:first-child {
+    color: navy;
+}
+
+div:nth-child(7){
+    background-color: pink;
+}

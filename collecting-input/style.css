@@ -1,0 +1,16 @@
+#one{
+    display: flex;
+    margin: 1em;
+    width: 50%;
+}
+
+#two{
+    display: flex;
+    margin: 1em;
+    width: 50%;
+}
+
+#saveToWishlist{
+    display: flex;
+    margin: 1em;
+}

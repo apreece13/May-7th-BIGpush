@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1em;
+    margin: auto;
+}
+
+.goat-mode{
+    font-family: cursive;
+    background-image: url();
+    color: plum;
+}
